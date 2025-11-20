@@ -1,7 +1,4 @@
 #CODE HERE😌
-from turtle import pos
-
-
 positive_words=set()
 negative_words=set()
 
